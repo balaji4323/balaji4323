@@ -1,261 +1,233 @@
+<!-- ============================================================
+     SRI BALAJI B — ANIMATED GITHUB PROFILE README
+     Save this repo as: github.com/balaji4323/balaji4323
+     (repo name MUST match your username exactly to show on profile)
+============================================================ -->
+
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Sri%20Balaji%20B&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20Programmer%20%7C%20Data%20Analyst%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
+<!-- ANIMATED HEADER BANNER — capsule-render (SVG, auto-plays, no JS) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Sri%20Balaji%20B&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20Raw%20Data%20Into%20Real%20Decisions&descAlignY=58&descSize=22"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Python+Programmer+%7C+Data+Analyst;B.Tech+AI+%26+ML+Student+%40+HICET;Building+ML-powered+solutions+that+matter;Turning+raw+data+into+real+insights" alt="Typing SVG" />
+<!-- TYPING EFFECT — readme-typing-svg (SMIL animation, GitHub-safe) -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=700&lines=Python+Programmer+%7C+Data+Analyst;2nd+Place+%40+CSTF+Coimbatore+%F0%9F%A5%88;B.Tech+AI+%26+ML+%40+HICET;I+chase+the+%22why%22+behind+the+data" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<!-- Dynamic Badges -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=balaji4323&label=Profile%20Views&color=00C6FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/balaji4323?label=Followers&style=for-the-badge&color=2c5364"/>
+<!-- LIVE VISITOR COUNTER — animated gradient badge -->
+<img src="https://komarev.com/ghpvc/?username=balaji4323&label=Profile%20Views&color=gradient&style=for-the-badge&base=0001"/>
+<img src="https://img.shields.io/github/followers/balaji4323?label=Followers&style=for-the-badge&color=0f2027&labelColor=00C6FF"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Status&query=%24.status&url=https%3A%2F%2Fapi.github.com&style=for-the-badge&color=success&label=Currently&message=Shipping%20Code"/>
 
 </div>
 
 <br/>
 
-## 🧠 About Me
+<!-- ============================================================
+     ABOUT — narrative + sidebar layout for visual rhythm
+============================================================ -->
 
-> *"Data doesn't speak for itself — someone has to translate it into decisions."*
+## 📖 About Me
 
-I'm **Sri Balaji B**, a B.Tech Artificial Intelligence & Machine Learning student at **Hindusthan College of Engineering and Technology, Coimbatore**, with a knack for turning messy, real-world datasets into insights people can actually act on.
+<table>
+<tr>
+<td width="65%" valign="top">
 
-My journey started with core Python fundamentals, but quickly expanded into **data cleaning, exploratory data analysis, and visualization** across two hands-on internships — and from there into applied **machine learning and NLP**, where I've built everything from crop-yield prediction models to conversational AI chatbots.
+**I don't just analyze data — I chase the "why" behind it.**
 
-- 🔭 Currently exploring deeper applications of **ML & AI automation** in real-world domains like agriculture and productivity tools
-- 🌱 Constantly sharpening my **SQL, Power BI, and EDA** skills for cleaner, faster insights
-- 🏆 Secured **2nd place at CSTF (CODISSIA, Coimbatore)** for an AI-powered farming assistance tool
-- 🤝 Thrive in fast-paced, mentorship-driven environments — 2 data internships + 1 frontend internship in under a year
-- 💬 Ask me about: Python, EDA, Power BI, NLP chatbots, or React/Node.js full-stack builds
-- 📈 Goal: Become a Python-first Data Analyst who can bridge the gap between data science and product decisions
+It started with a frustration: watching farmers make yield decisions on gut feel when the data to do better already existed. That became my first real project — an AI-powered crop yield predictor on live sensor data. It won **2nd place at CSTF (CODISSIA, Coimbatore)**, and that was the moment data work stopped being an assignment and became a habit.
 
-<br/>
+Since then I've chased that same feeling across 3 internships and 4 independent builds — cleaning messy real-world datasets at **Launched Global**, rebuilding my Python fundamentals from the ground up at **Elewayte**, and stepping into frontend engineering at **MORASCODE** because I believe analysts who understand product design build better tools.
 
-## ⚙️ Technical Arsenal
+🎓 Currently: B.Tech AI & ML @ Hindusthan College of Engineering and Technology (CGPA 8.44)
+
+</td>
+<td width="35%" valign="top">
+
+**🔬 Currently Obsessed With**
+```
+> agritech_ml.status()
+✔ proving small models
+  solve big regional
+  problems
+
+> nlp.tone()
+✔ making it feel less
+  robotic
+
+> solo_builds.count()
+✔ owning every layer,
+  end to end
+```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### 💻 Programming Languages
-<img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-00618A?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-### 📊 Data & Analytics
-<img src="https://img.shields.io/badge/Data%20Analysis-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Cleaning-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/EDA-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-
-### 🤖 Machine Learning & AI
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square"/>
-
-### 🛠️ Tools & Platforms
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+> *"Every dataset is hiding a decision someone's waiting to make. My job is to find it faster than they expected."*
 
 </div>
 
 <br/>
 
-**Proficiency Overview**
+<!-- ============================================================
+     TECH STACK — animated skill icons (skillicons.dev = SVG, no JS)
+============================================================ -->
 
-| Skill | Level |
-|---|---|
-| Python | ████████████████░░ 85% |
-| SQL | ██████████████░░░░ 75% |
-| Data Analysis / EDA | ████████████████░░ 85% |
-| Power BI | █████████████░░░░ 70% |
-| Machine Learning | ████████████░░░░░░ 65% |
-| NLP | ███████████░░░░░░░ 60% |
-| React / Node.js | ████████████░░░░░░ 65% |
-| JavaScript / HTML / CSS | █████████████░░░░░ 70% |
+## ⚡ Tech Arsenal
 
-> ℹ️ Replace the percentages above with `[YOUR_SKILL_LEVEL]` estimates that reflect your real comfort level — these are just a reasonable starting draft.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,react,js,html,css,mysql,git,github,vscode,pycharm,figma&theme=dark" />
+
+</div>
+
+**Progressive skill bars** *(static SVG render — GitHub strips `<progress>` styling, so these are pre-rendered as images)*
+
+<div align="center">
+<img src="https://progress-bar.dev/85/?title=Python&width=400&color=00c6ff"/><br/>
+<img src="https://progress-bar.dev/75/?title=SQL&width=400&color=00c6ff"/><br/>
+<img src="https://progress-bar.dev/85/?title=Data%20Analysis%20%2F%20EDA&width=400&color=00c6ff"/><br/>
+<img src="https://progress-bar.dev/70/?title=Power%20BI&width=400&color=00c6ff"/><br/>
+<img src="https://progress-bar.dev/65/?title=Machine%20Learning&width=400&color=00c6ff"/><br/>
+<img src="https://progress-bar.dev/60/?title=NLP&width=400&color=00c6ff"/><br/>
+<img src="https://progress-bar.dev/65/?title=React%20%2F%20Node.js&width=400&color=00c6ff"/>
+</div>
+
+> Adjust the numbers in each URL (`/85/`) to match your real proficiency.
 
 <br/>
+
+<!-- ============================================================
+     LIVE CODING METRICS — WakaTime (requires setup, see notes below)
+============================================================ -->
+
+## 📈 Live Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!-- This block is auto-filled by the WakaTime GitHub Action — see setup instructions below -->
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=balaji4323&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=balaji4323&theme=tokyonight&hide_border=true" width="49%"/>
+
+</div>
+
+<br/>
+
+<!-- ============================================================
+     CONTRIBUTION SNAKE — GitHub Action generated GIF/SVG
+     (this is the "beyond default" animated contribution graph)
+============================================================ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Generated nightly by .github/workflows/snake.yml — see setup below -->
+<img src="https://raw.githubusercontent.com/balaji4323/balaji4323/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation eating my contribution graph"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=balaji4323&theme=tokyo-night&hide_border=true" width="90%"/>
+</div>
+
+<br/>
+
+<!-- ============================================================
+     PROFESSIONAL JOURNEY — timeline with icon rhythm
+============================================================ -->
 
 ## 🚀 Professional Journey
 
-<div align="center">
-<img src="https://img.shields.io/badge/2025_--_2026-Internship_Timeline-2c5364?style=for-the-badge"/>
-</div>
-
 ```
 📍 Jun 2025 – Jul 2025   Data Analytics Intern — Launched Global (Remote)
-                         ├─ Performed data cleaning & EDA on real-world datasets
-                         │  in a mentorship-based internship program
-                         └─ Applied visualization techniques to turn raw data
-                            into actionable insights (mentor-reviewed)
+                         └─ EDA + data cleaning on real-world datasets,
+                            mentor-reviewed visualization work
 
 📍 Jun 2025 – Jul 2025   Python Development Intern — Elewayte (Remote)
-                         ├─ Completed structured Python training: core logic,
-                         │  scripting, and debugging for project-based tasks
-                         └─ Strengthened Python fundamentals through hands-on
-                            coding exercises & problem-solving assignments
+                         └─ Core Python logic, debugging, structured
+                            project-based training
 
 📍 Dec 2025 – Jan 2026   Frontend Developer Intern — MORASCODE, Bengaluru
-                         └─ Built responsive, user-friendly e-commerce web
-                            interfaces using VS Code, Figma, GitHub,
-                            WordPress & Adobe XD
+                         └─ Responsive e-commerce UI — React ecosystem,
+                            Figma, WordPress
 ```
 
-<details>
-<summary><b>🏢 Company Snapshot (click to expand)</b></summary>
 <br/>
 
-| Company | Role | Duration | Focus Area |
-|---|---|---|---|
-| **[YOUR_LAUNCHED_GLOBAL_LOGO]** Launched Global | Data Analytics Intern | Jun – Jul 2025 | Data Cleaning, EDA, Visualization |
-| **[YOUR_ELEWAYTE_LOGO]** Elewayte | Python Development Intern | Jun – Jul 2025 | Python Fundamentals & Scripting |
-| **[YOUR_MORASCODE_LOGO]** MORASCODE | Frontend Developer Intern | Dec 2025 – Jan 2026 | E-commerce UI, React ecosystem tools |
-
-> ℹ️ Add each company's logo URL in place of `[YOUR_..._LOGO]`, or drop this table if you'd rather keep the ASCII timeline above as the single source.
-
-</details>
-
-<br/>
+<!-- ============================================================
+     FEATURED PROJECTS
+============================================================ -->
 
 ## 🌟 Featured Projects
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 🌾 AI-Farming Assistance
-**Python · Machine Learning**
-
-Built an AI-powered farming assistance tool applying ML algorithms to improve crop yield prediction accuracy, integrating real-time sensor data.
-
-🏆 **2nd Place — CSTF (CODISSIA, Coimbatore)**
-
-`#python` `#machine-learning` `#agritech`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/balaji4323/[YOUR_REPO_NAME])
-[![Demo](https://img.shields.io/badge/Live_Demo-00C6FF?style=flat-square&logo=vercel&logoColor=white)]([YOUR_DEMO_LINK])
-
-</td>
-<td width="50%">
-
-### 🤖 AI Personal Chatbot
-**Python · NLP**
-
-Developed a personal AI chatbot using NLP to interpret user queries and generate context-aware conversational responses, refined through iterative testing.
-
-`#python` `#nlp` `#chatbot`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/balaji4323/[YOUR_REPO_NAME])
-[![Demo](https://img.shields.io/badge/Live_Demo-00C6FF?style=flat-square&logo=vercel&logoColor=white)]([YOUR_DEMO_LINK])
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚡ Smart Life
-**React · Node.js · Python — Robothon Hackathon**
-
-Built an AI-powered automation dashboard as a competition entry — React frontend, Node.js backend, and a Python-based AI automation module.
-
-`#react` `#nodejs` `#automation` `#hackathon`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/balaji4323/[YOUR_REPO_NAME])
-[![Demo](https://img.shields.io/badge/Live_Demo-00C6FF?style=flat-square&logo=vercel&logoColor=white)]([YOUR_DEMO_LINK])
-
-</td>
-<td width="50%">
-
-### 🎓 Student Portal Management System
-**React · Node.js · SQL — Solo Project**
-
-Independently built an academic management platform with authentication, dashboards, and student records — including a normalized relational SQL schema.
-
-`#react` `#nodejs` `#sql` `#solo-project`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/balaji4323/[YOUR_REPO_NAME])
-[![Demo](https://img.shields.io/badge/Live_Demo-00C6FF?style=flat-square&logo=vercel&logoColor=white)]([YOUR_DEMO_LINK])
-
-</td>
-</tr>
-</table>
+| Project | Stack | Highlight |
+|---|---|---|
+| 🌾 **AI-Farming Assistance** | Python, ML | 🥈 2nd place, CSTF (CODISSIA) |
+| 🤖 **AI Personal Chatbot** | Python, NLP | Context-aware conversational responses |
+| ⚡ **Smart Life** | React, Node.js, Python | Robothon Hackathon entry |
+| 🎓 **Student Portal Management** | React, Node.js, SQL | Solo-built, normalized schema |
 
 </div>
 
-> ℹ️ Fill in `[YOUR_REPO_NAME]` and `[YOUR_DEMO_LINK]` for each project. If a project isn't deployed yet, delete the "Live Demo" badge line for that card.
+> Add repo + live demo links as `[View Repo]([YOUR_REPO_URL])` under each row once pushed.
 
 <br/>
 
-## 📊 GitHub Analytics
+<!-- ============================================================
+     INTERACTIVE TERMINAL — simulated, not truly clickable
+     (GitHub strips <script>, so true click-response is impossible;
+     <details> below is the closest real interactive element GitHub supports)
+============================================================ -->
 
-<div align="center">
+## 🖥️ Terminal (click to run)
 
-<img src="https://github-readme-stats.vercel.app/api?username=balaji4323&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji4323&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+<details>
+<summary><code>$ whoami --verbose</code> — click to expand</summary>
+<br/>
+
+```bash
+$ whoami --verbose
+> Sri Balaji B
+> role: Python Programmer / Data Analyst
+> status: B.Tech AI & ML student @ HICET (CGPA 8.44)
+> achievements: [
+    "2nd place – CSTF, CODISSIA Coimbatore",
+    "IBM SkillsBuild – AI Fundamentals",
+    "3 internships in 12 months"
+  ]
+> currently_building: "context-aware NLP + agritech ML tools"
+> fun_fact: "debugs faster with lo-fi playing"
+```
+
+</details>
+
+<details>
+<summary><code>$ cat mission.txt</code> — click to expand</summary>
+<br/>
+
+```
+Turn "we think" into "we know" —
+one clean dataset at a time.
+```
+
+</details>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=balaji4323&theme=tokyonight&hide_border=true" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=balaji4323&theme=tokyo-night&hide_border=true" width="90%"/>
-
-</div>
-
-> ℹ️ These widgets pull live from your GitHub username automatically — no placeholder needed, just make sure `balaji4323` matches your actual GitHub handle.
-
-<br/>
-
-## 🎓 Education & Certifications
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏫 Education**
-
-**B.Tech, AI & Machine Learning**
-Hindusthan College of Engineering and Technology
-`Expected 2028` · CGPA: **8.44**
-
-**Higher Secondary**
-Velammal Bodhi Residential School
-`2024` · **90.1%**
-
-</td>
-<td width="50%" valign="top">
-
-**📜 Certifications**
-
-- 🏅 AI Fundamentals — IBM SkillsBuild *(Aug 2025)*
-- 🏅 Python Programming (Course & Internship) — Elewayte
-- 🏅 Data Analytics Mentorship Program — Launched Global
-- 🏅 Email Etiquette — TCS iON, TCS
-
-</td>
-</tr>
-</table>
-
-<br/>
+<!-- ============================================================
+     CONNECT
+============================================================ -->
 
 ## 📫 Let's Connect
 
@@ -264,12 +236,19 @@ Velammal Bodhi Residential School
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sri-balaji-805423358)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaji4323)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sribalaji382006@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=vercel&logoColor=white)]([YOUR_PORTFOLIO_LINK])
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
-
-**"Turning data into decisions, one dataset at a time."**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
 
 </div>
+
+<!--
+  ACCESSIBILITY NOTE:
+  All animations above are image/SVG-based (GIF, SMIL), not CSS/JS —
+  GitHub cannot detect prefers-reduced-motion for embedded images, so
+  there's no way to auto-disable them. If you want a reduced-motion-
+  friendly profile, swap animation=twinkling → animation=fadeIn on the
+  capsule-render URLs (a single fade-in, not a looping animation), and
+  replace the typing SVG with static text.
+-->
